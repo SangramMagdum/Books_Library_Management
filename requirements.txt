@@ -1,0 +1,7 @@
+1-asgiref==3.2.7
+2-Django==3.0.5 or above
+3-django-widget-tweaks==1.4.8
+4-pytz==2020.1
+5-MySQL==5.7 or above
+6-sqlparse==0.3.1
+
